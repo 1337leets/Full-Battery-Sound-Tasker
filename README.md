@@ -1,4 +1,4 @@
-# Full-Battery-Sfx (Tasker)
+# Full-Battery-Sound (Tasker)
 A Tasker profile that will play the chosen sound when the battery is full.
 
 * Import the profile by holding on the profiles section.
